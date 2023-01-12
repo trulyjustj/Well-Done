@@ -14,6 +14,7 @@ p   {
     background-color:lightslategray;
     border-style: ridge;
     background-image: url("trollface.png")
+    background-position: center bottom;
 }
 
 .topnav {
